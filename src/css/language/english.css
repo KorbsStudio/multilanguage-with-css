@@ -1,1 +1,1 @@
-i18n#hello-world::before {content: "Hello World";}
+text#hello-world::before {content: "Hello World";}
